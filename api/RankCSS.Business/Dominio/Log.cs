@@ -14,15 +14,27 @@ namespace RankCSS.Business.Dominio
         public List<Player> Players { get; set; }
         public void LerAquivoLogTxt()
         {
-            string text = System.IO.File.ReadAllText(@"C:\Flavio\cs\Counter-Strike Source\cstrike\logs\l0302001.log");
+            string text = System.IO.File.ReadAllText(@"C:\Flavio\cs\Counter-Strike Source\cstrike\logs\l0302002.log");
 
             var split = text.Split("\r\n");
 
             BuscarJogadores(split);
             BuscarKillPorPlayer(text);
 
+            Players = Players
+                .GroupBy(i => i.Address)
+                .Select(j => new Player()
+                {
+                    Address = j.First().Address,
+                    Kill = j.Sum(ij => ij.Kill),
+                    Death = j.Sum(ij => ij.Death),
+                    Assistance = j.Sum(ij => ij.Assistance),
+                    FriendlyFire = j.Sum(ij => ij.FriendlyFire),
+                    Nickname = j.First().Nickname,
+                })
+                .ToList();
 
-            var id = 0;
+
         }
 
         public void BuscarJogadores(string[] log)
@@ -56,11 +68,13 @@ namespace RankCSS.Business.Dominio
         {
             var idx = log.IndexOf("Game_Commencing");
             log = log.Remove(0, idx);
-            var rounds = log.Split("World triggered");
+            var rounds = log.Split("Round_End");
+
 
 
             foreach (var round in rounds)
             {
+                MudarNickName(round);
                 var roundDatail = round.Split("\r\n");
                 var listaKill = roundDatail.Where(x => x.Contains("killed"));
                 foreach (var killed in listaKill)
@@ -98,12 +112,38 @@ namespace RankCSS.Business.Dominio
             }
 
         }
+
+        public void MudarNickName(string round)
+        {
+            if (round.Contains("changed name to"))
+            {
+                var splitNicknameAntigo = round.Split("changed name to");
+
+                splitNicknameAntigo[0] = splitNicknameAntigo[0].Remove(0, 1);
+                var inicioNickname = splitNicknameAntigo[0].IndexOf("\"") + 1;
+                var fimNickname = splitNicknameAntigo[0].IndexOf("<");
+                var nicknameAntigo = splitNicknameAntigo[0][inicioNickname..fimNickname];
+
+                var nicknameNovo = splitNicknameAntigo[1].Trim().Split("\r\n");
+
+                foreach (var player in Players)
+                {
+                    if (player.Nickname == nicknameAntigo)
+                    {
+                        player.Nickname = nicknameNovo[0];
+                    }
+                }
+            }
+        }
+
         public string BuscarPlayer(string item)
         {
+
             var inicioNickname = item.IndexOf("\"") + 1;
             var fimNickname = item.IndexOf("<");
-            var player = item[inicioNickname..fimNickname];
-            return player;
+            var nickname = item[inicioNickname..fimNickname];
+
+            return nickname;
         }
     }
 
