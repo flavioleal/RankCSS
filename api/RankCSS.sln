@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankCSS.Api", "RankCSS.Api\RankCSS.Api.csproj", "{EA3AB1D3-FDF1-4CA2-A4EA-CEC03A442FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RankCSS.Api", "RankCSS.Api\RankCSS.Api.csproj", "{EA3AB1D3-FDF1-4CA2-A4EA-CEC03A442FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankCSS.Business", "RankCSS.Business\RankCSS.Business.csproj", "{7C24170F-3C74-4EEC-8255-E75EC82C751E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RankCSS.Business", "RankCSS.Business\RankCSS.Business.csproj", "{7C24170F-3C74-4EEC-8255-E75EC82C751E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankCSS.Infra.Data", "RankCSS.Infra.Data\RankCSS.Infra.Data.csproj", "{3E4DF41A-0BE6-4F79-A380-B87C2D3BA1C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RankCSS.Infra.Data", "RankCSS.Infra.Data\RankCSS.Infra.Data.csproj", "{3E4DF41A-0BE6-4F79-A380-B87C2D3BA1C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankCSS.CrossCutting.IoC", "RankCSS.CrossCutting.IoC\RankCSS.CrossCutting.IoC.csproj", "{590E8730-0A53-45BE-8669-95A54FB1678A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RankCSS.CrossCutting.IoC", "RankCSS.CrossCutting.IoC\RankCSS.CrossCutting.IoC.csproj", "{590E8730-0A53-45BE-8669-95A54FB1678A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankCSS.Test", "RankCSS.Test\RankCSS.Test.csproj", "{65BF4E0E-AA8C-49D8-9A39-1B25A4456D67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{590E8730-0A53-45BE-8669-95A54FB1678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590E8730-0A53-45BE-8669-95A54FB1678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590E8730-0A53-45BE-8669-95A54FB1678A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BF4E0E-AA8C-49D8-9A39-1B25A4456D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BF4E0E-AA8C-49D8-9A39-1B25A4456D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BF4E0E-AA8C-49D8-9A39-1B25A4456D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BF4E0E-AA8C-49D8-9A39-1B25A4456D67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
