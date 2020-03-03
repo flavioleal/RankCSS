@@ -1,24 +1,11 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { LayoutComponent } from './core/layout/layout/layout.component';
+import { RankGeralComponent } from './rank-geral/rank-geral.component';
 
 
 const routes: Routes = [
-  {
-    path: '',
-    component: LayoutComponent,
-    children: [
-      {
-        path: 'RANK',
-        loadChildren: '../modules/rank/rank.module#RankModule',
-        data: {
-          titulo: 'RANK',
-          breadcrumb: 'RANK'
-        },
-
-      }
-    ]
-  }
+  { path: '', component: RankGeralComponent },
+  { path: 'rank', component: RankGeralComponent },
 ];
 
 @NgModule({

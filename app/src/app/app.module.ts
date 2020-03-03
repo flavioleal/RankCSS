@@ -7,17 +7,22 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { HttpClient, HttpHeaders, HttpClientModule } from '@angular/common/http';
+import { RankGeralComponent } from './rank-geral/rank-geral.component';
+import { MatSliderModule } from '@angular/material/slider';
+import {MatToolbarModule} from '@angular/material/toolbar';
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
-    HttpClientModule
+   declarations: [
+      AppComponent,
+      RankGeralComponent
+   ],
+   imports: [
+      BrowserModule,
+      AppRoutingModule,
+      BrowserAnimationsModule,
+      ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
+      MatSliderModule,
+      MatToolbarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
