@@ -35,6 +35,10 @@ namespace RankCSS.Business.Dominio
                 .ToList();
 
 
+            foreach (var player in Players)
+            {
+                Console.WriteLine($"Nick: {player.Nickname}    |    Kill: {player.Kill}");
+            }
         }
 
         public void BuscarJogadores(string[] log)
