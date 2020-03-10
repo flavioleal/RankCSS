@@ -14,7 +14,7 @@ namespace RankCSS.Business.Dominio
         public List<Player> Players { get; set; }
         public void LerAquivoLogTxt()
         {
-            string text = System.IO.File.ReadAllText(@"C:\Flavio\cs\Counter-Strike Source\cstrike\logs\l0302002.log");
+            string text = System.IO.File.ReadAllText(@"C:\Projetos\RankCSS\api\RankCSS.Api\log\l0310000.log");
 
             var split = text.Split("\r\n");
 
@@ -147,6 +147,7 @@ namespace RankCSS.Business.Dominio
             var fimNickname = item.IndexOf("<");
             var nickname = item[inicioNickname..fimNickname];
 
+            return nickname;
             return nickname;
         }
     }
