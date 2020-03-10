@@ -1,0 +1,654 @@
+L 03/02/2020 - 12:25:50: Log file started (file "logs\L0302005.log") (game "D:\Cs\Source\Counter-Strike Source\Counter-Strike Source\cstrike") (version "2433")
+L 03/02/2020 - 12:25:50: World triggered "Round_Start"
+L 03/02/2020 - 12:25:50: World triggered "Round_Start"
+L 03/02/2020 - 12:25:52: "ICK<8><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:25:52: "pirulito<5><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:25:52: "Mito<3><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:25:52: "Pescotapa<6><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:25:53: "xama na xinxa<7><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:25:53: "Gohan<4><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:25:54: "pirulito<5><STEAM_ID_LAN><Unassigned>" joined team "CT"
+L 03/02/2020 - 12:25:56: "Pescotapa<6><STEAM_ID_LAN><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 12:25:56: World triggered "Game_Commencing"
+L 03/02/2020 - 12:25:56: "ICK<8><STEAM_ID_LAN><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 12:25:59: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:25:59: World triggered "Round_Start"
+L 03/02/2020 - 12:25:59: "xama na xinxa<7><STEAM_ID_LAN><Unassigned>" joined team "CT"
+L 03/02/2020 - 12:26:00: "Gohan<4><STEAM_ID_LAN><Unassigned>" joined team "CT"
+L 03/02/2020 - 12:26:00: "Mito<3><STEAM_ID_LAN><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 12:26:08: "Imposto<9><STEAM_ID_LAN><>" connected, address "10.70.0.65:27005"
+L 03/02/2020 - 12:26:08: "Imposto<STEAM_ID_LAN>" STEAM USERID validated
+L 03/02/2020 - 12:26:15: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "45") (damage_armor "0") (health "55") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:26:16: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "usp" (damage "24") (damage_armor "0") (health "76") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:26:18: "Imposto<9><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:26:19: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "14") (damage_armor "0") (health "86") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:26:19: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "34") (damage_armor "5") (health "66") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:26:20: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "38") (damage_armor "0") (health "62") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:26:21: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "35") (damage_armor "0") (health "20") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:26:21: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "22") (damage_armor "0") (health "0") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:26:21: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/02/2020 - 12:26:24: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "10") (damage_armor "0") (health "52") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:26:25: "Imposto<9><STEAM_ID_LAN><Unassigned>" joined team "CT"
+L 03/02/2020 - 12:26:25: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "39") (damage_armor "0") (health "13") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:26:25: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "48") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:26:25: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 12:26:25: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 03/02/2020 - 12:26:28: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "18") (damage_armor "0") (health "68") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:26:28: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "18") (damage_armor "0") (health "50") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:26:28: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "75") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:26:28: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (headshot)
+L 03/02/2020 - 12:26:30: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "26") (damage_armor "4") (health "40") (armor "89") (hitgroup "chest")
+L 03/02/2020 - 12:26:31: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:26:36: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "14") (damage_armor "0") (health "62") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:26:36: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "10") (damage_armor "0") (health "52") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:26:37: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "10") (damage_armor "0") (health "42") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:26:39: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "14") (damage_armor "0") (health "28") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:26:40: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "23") (damage_armor "3") (health "17") (armor "85") (hitgroup "right arm")
+L 03/02/2020 - 12:26:50: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "10") (damage_armor "5") (health "7") (armor "79") (hitgroup "stomach")
+L 03/02/2020 - 12:26:50: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "glock" (damage "7") (damage_armor "3") (health "93") (armor "96") (hitgroup "stomach")
+L 03/02/2020 - 12:26:52: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "glock" (damage "6") (damage_armor "3") (health "87") (armor "92") (hitgroup "stomach")
+L 03/02/2020 - 12:26:59: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" say_team "olha o tempo"
+L 03/02/2020 - 12:27:28: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:27:32: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "18") (damage_armor "9") (health "0") (armor "69") (hitgroup "stomach")
+L 03/02/2020 - 12:27:32: "Gohan<4><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/02/2020 - 12:27:36: "Gohan<4><STEAM_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/02/2020 - 12:27:46: "Gohan<4><STEAM_ID_LAN><CT>" triggered "Defused_The_Bomb"
+L 03/02/2020 - 12:27:46: Team "CT" triggered "Bomb_Defused" (CT "1") (T "0")
+L 03/02/2020 - 12:27:46: Team "CT" scored "1" with "4" players
+L 03/02/2020 - 12:27:46: Team "TERRORIST" scored "0" with "3" players
+L 03/02/2020 - 12:27:46: World triggered "Round_End"
+L 03/02/2020 - 12:27:51: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:27:52: World triggered "Round_Start"
+L 03/02/2020 - 12:27:56: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "knife" (damage "7") (damage_armor "0") (health "93") (armor "0") (hitgroup "generic")
+L 03/02/2020 - 12:28:04: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:28:04: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:28:04: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:28:05: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "0") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:28:05: "pirulito<5><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:28:06: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "galil" (damage "118") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:28:06: "Mito<3><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "galil" (headshot)
+L 03/02/2020 - 12:28:22: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "42") (damage_armor "0") (health "51") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:28:22: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "8") (damage_armor "0") (health "43") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:28:27: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "80") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:28:32: "Brad<10><BOT><>" connected, address "none"
+L 03/02/2020 - 12:28:32: "Brad<10><BOT><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 12:28:32: "Brad<10><BOT><>" entered the game
+L 03/02/2020 - 12:28:37: "xlRubenslx<11><STEAM_ID_LAN><>" connected, address "10.70.0.57:27005"
+L 03/02/2020 - 12:28:37: "xlRubenslx<STEAM_ID_LAN>" STEAM USERID validated
+L 03/02/2020 - 12:28:40: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:28:45: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "40") (damage_armor "0") (health "3") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:28:45: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "0") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:28:45: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:28:48: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "88") (hitgroup "left arm")
+L 03/02/2020 - 12:28:48: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "84") (hitgroup "right arm")
+L 03/02/2020 - 12:28:48: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "4") (health "12") (armor "79") (hitgroup "stomach")
+L 03/02/2020 - 12:28:48: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "75") (hitgroup "right arm")
+L 03/02/2020 - 12:28:48: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:28:55: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "21") (damage_armor "0") (health "79") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:28:55: "xlRubenslx<11><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:29:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "49") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:29:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "39") (damage_armor "0") (health "10") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:29:04: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "18") (damage_armor "0") (health "0") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:29:04: "Imposto<9><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:29:08: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/02/2020 - 12:29:17: "xlRubenslx<11><STEAM_ID_LAN><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 12:29:18: "Brad<10><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 03/02/2020 - 12:29:18: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Defused_The_Bomb"
+L 03/02/2020 - 12:29:18: Team "CT" triggered "Bomb_Defused" (CT "2") (T "0")
+L 03/02/2020 - 12:29:18: Team "CT" scored "2" with "4" players
+L 03/02/2020 - 12:29:18: Team "TERRORIST" scored "0" with "4" players
+L 03/02/2020 - 12:29:18: World triggered "Round_End"
+L 03/02/2020 - 12:29:19: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "15") (damage_armor "0") (health "64") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:29:19: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "15") (damage_armor "0") (health "49") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:29:19: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "15") (damage_armor "0") (health "34") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:29:19: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "12") (damage_armor "0") (health "22") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:29:20: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "12") (damage_armor "0") (health "10") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:29:20: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "12") (damage_armor "0") (health "0") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:29:20: "Imposto<9><STEAM_ID_LAN><CT>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:29:23: "Imposto<9><STEAM_ID_LAN><CT>" committed suicide with "world"
+L 03/02/2020 - 12:29:23: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:29:23: World triggered "Round_Start"
+L 03/02/2020 - 12:29:32: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" say "friend fyle"
+L 03/02/2020 - 12:29:36: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:29:36: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:29:36: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:29:43: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "136") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:29:43: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:29:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "12") (damage_armor "0") (health "88") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:29:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "12") (damage_armor "0") (health "76") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:29:47: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "129") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:29:47: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:29:48: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "15") (damage_armor "0") (health "53") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:29:48: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:29:48: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "40") (damage_armor "0") (health "13") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:29:48: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "0") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:29:48: "Gohan<4><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:29:49: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "47") (armor "96") (hitgroup "left leg")
+L 03/02/2020 - 12:29:50: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "4") (health "13") (armor "91") (hitgroup "stomach")
+L 03/02/2020 - 12:29:50: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "87") (hitgroup "left arm")
+L 03/02/2020 - 12:29:50: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:29:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 03/02/2020 - 12:29:50: Team "CT" scored "2" with "4" players
+L 03/02/2020 - 12:29:50: Team "TERRORIST" scored "1" with "4" players
+L 03/02/2020 - 12:29:50: World triggered "Round_End"
+L 03/02/2020 - 12:29:55: "Mito<3><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:29:55: World triggered "Round_Start"
+L 03/02/2020 - 12:30:13: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "88") (armor "93") (hitgroup "chest")
+L 03/02/2020 - 12:30:14: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "76") (armor "86") (hitgroup "left arm")
+L 03/02/2020 - 12:30:16: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "38") (damage_armor "5") (health "62") (armor "94") (hitgroup "head")
+L 03/02/2020 - 12:30:26: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:30:29: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "6") (damage_armor "0") (health "94") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:30:30: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "97") (damage_armor "0") (health "3") (armor "100") (hitgroup "head")
+L 03/02/2020 - 12:30:30: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "12") (damage_armor "6") (health "0") (armor "93") (hitgroup "left arm")
+L 03/02/2020 - 12:30:30: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 03/02/2020 - 12:30:41: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "44") (damage_armor "0") (health "22") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:30:41: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "46") (damage_armor "23") (health "16") (armor "70") (hitgroup "head")
+L 03/02/2020 - 12:30:41: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "14") (damage_armor "7") (health "2") (armor "62") (hitgroup "stomach")
+L 03/02/2020 - 12:30:41: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "14") (damage_armor "7") (health "0") (armor "54") (hitgroup "stomach")
+L 03/02/2020 - 12:30:41: "Mito<3><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 12:30:41: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "mp5navy"
+L 03/02/2020 - 12:30:41: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "67") (armor "96") (hitgroup "chest")
+L 03/02/2020 - 12:30:49: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "15") (damage_armor "0") (health "52") (armor "96") (hitgroup "left leg")
+L 03/02/2020 - 12:30:49: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "15") (damage_armor "0") (health "37") (armor "96") (hitgroup "left leg")
+L 03/02/2020 - 12:30:49: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "15") (damage_armor "2") (health "22") (armor "93") (hitgroup "left arm")
+L 03/02/2020 - 12:30:50: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "43") (armor "81") (hitgroup "stomach")
+L 03/02/2020 - 12:30:53: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "25") (damage_armor "0") (health "0") (armor "93") (hitgroup "left leg")
+L 03/02/2020 - 12:30:53: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:30:56: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:31:07: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:31:07: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:31:08: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "41") (armor "95") (hitgroup "right leg")
+L 03/02/2020 - 12:31:08: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "79") (hitgroup "head")
+L 03/02/2020 - 12:31:08: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (headshot)
+L 03/02/2020 - 12:31:24: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:31:37: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:31:39: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "17") (armor "81") (hitgroup "right leg")
+L 03/02/2020 - 12:31:39: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "34") (damage_armor "4") (health "0") (armor "76") (hitgroup "stomach")
+L 03/02/2020 - 12:31:39: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47"
+L 03/02/2020 - 12:31:42: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/02/2020 - 12:31:52: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Defused_The_Bomb"
+L 03/02/2020 - 12:31:52: Team "CT" triggered "Bomb_Defused" (CT "3") (T "1")
+L 03/02/2020 - 12:31:52: Team "CT" scored "3" with "4" players
+L 03/02/2020 - 12:31:52: Team "TERRORIST" scored "1" with "4" players
+L 03/02/2020 - 12:31:52: World triggered "Round_End"
+L 03/02/2020 - 12:31:57: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:31:57: World triggered "Round_Start"
+L 03/02/2020 - 12:32:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "left leg")
+L 03/02/2020 - 12:32:20: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "79") (armor "95") (hitgroup "chest")
+L 03/02/2020 - 12:32:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "5") (health "40") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:32:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "13") (armor "89") (hitgroup "left arm")
+L 03/02/2020 - 12:32:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "84") (hitgroup "left arm")
+L 03/02/2020 - 12:32:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:32:21: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "58") (armor "90") (hitgroup "left arm")
+L 03/02/2020 - 12:32:21: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "15") (damage_armor "0") (health "85") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:32:22: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "87") (damage_armor "18") (health "0") (armor "71") (hitgroup "head")
+L 03/02/2020 - 12:32:22: "pirulito<5><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:32:26: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:32:38: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:32:43: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:32:43: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "137") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:32:43: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (headshot)
+L 03/02/2020 - 12:32:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "right arm")
+L 03/02/2020 - 12:32:48: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "33") (damage_armor "4") (health "41") (armor "91") (hitgroup "stomach")
+L 03/02/2020 - 12:32:48: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "15") (armor "91") (hitgroup "right leg")
+L 03/02/2020 - 12:32:48: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:32:49: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "91") (hitgroup "right leg")
+L 03/02/2020 - 12:32:49: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:32:55: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "0") (armor "96") (hitgroup "head")
+L 03/02/2020 - 12:32:55: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:32:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:32:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "47") (armor "95") (hitgroup "right arm")
+L 03/02/2020 - 12:32:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "20") (armor "90") (hitgroup "chest")
+L 03/02/2020 - 12:32:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "110") (damage_armor "16") (health "0") (armor "73") (hitgroup "head")
+L 03/02/2020 - 12:32:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:33:05: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "25") (damage_armor "0") (health "60") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:33:07: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "44") (armor "95") (hitgroup "left leg")
+L 03/02/2020 - 12:33:13: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "34") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:33:13: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "43") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:33:13: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:33:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 03/02/2020 - 12:33:13: Team "CT" scored "3" with "4" players
+L 03/02/2020 - 12:33:13: Team "TERRORIST" scored "2" with "4" players
+L 03/02/2020 - 12:33:13: World triggered "Round_End"
+L 03/02/2020 - 12:33:18: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:33:18: World triggered "Round_Start"
+L 03/02/2020 - 12:33:33: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "5") (damage_armor "2") (health "95") (armor "97") (hitgroup "generic")
+L 03/02/2020 - 12:33:35: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "6") (damage_armor "0") (health "89") (armor "96") (hitgroup "generic")
+L 03/02/2020 - 12:33:43: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:33:54: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:33:55: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "75") (armor "88") (hitgroup "right arm")
+L 03/02/2020 - 12:33:55: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "56") (damage_armor "28") (health "19") (armor "59") (hitgroup "head")
+L 03/02/2020 - 12:33:56: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "6") (armor "52") (hitgroup "chest")
+L 03/02/2020 - 12:33:56: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "5") (health "66") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:33:57: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "33") (damage_armor "0") (health "67") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:33:58: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "39") (armor "89") (hitgroup "chest")
+L 03/02/2020 - 12:33:58: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "5") (health "5") (armor "83") (hitgroup "stomach")
+L 03/02/2020 - 12:33:58: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "0") (armor "83") (hitgroup "right leg")
+L 03/02/2020 - 12:33:58: "Mito<3><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:34:07: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "44") (damage_armor "0") (health "23") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:34:07: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:34:10: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "20") (damage_armor "0") (health "3") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:34:10: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "0") (armor "52") (hitgroup "left leg")
+L 03/02/2020 - 12:34:10: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:34:10: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:34:10: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:34:13: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/02/2020 - 12:34:16: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "7") (damage_armor "0") (health "58") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:34:16: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "10") (damage_armor "0") (health "48") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:34:17: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "13") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:34:20: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "71") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:34:20: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "25") (damage_armor "0") (health "0") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:34:20: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock"
+L 03/02/2020 - 12:34:20: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "115") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:34:20: "Gohan<4><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (headshot)
+L 03/02/2020 - 12:34:28: Team "TERRORIST" triggered "Target_Bombed" (CT "3") (T "3")
+L 03/02/2020 - 12:34:28: Team "CT" scored "3" with "4" players
+L 03/02/2020 - 12:34:28: Team "TERRORIST" scored "3" with "4" players
+L 03/02/2020 - 12:34:28: World triggered "Round_End"
+L 03/02/2020 - 12:34:33: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:34:33: World triggered "Round_Start"
+L 03/02/2020 - 12:34:58: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "famas" (damage "21") (damage_armor "0") (health "79") (armor "100") (hitgroup "left leg")
+L 03/02/2020 - 12:34:59: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:34:59: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "43") (damage_armor "0") (health "22") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:34:59: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "famas" (damage "80") (damage_armor "17") (health "0") (armor "82") (hitgroup "head")
+L 03/02/2020 - 12:34:59: "pirulito<5><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "famas" (headshot)
+L 03/02/2020 - 12:35:00: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "20") (damage_armor "0") (health "2") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:35:00: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "famas" (damage "19") (damage_armor "4") (health "81") (armor "95") (hitgroup "right arm")
+L 03/02/2020 - 12:35:02: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "deagle" (damage "122") (damage_armor "20") (health "0") (armor "74") (hitgroup "head")
+L 03/02/2020 - 12:35:02: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 12:35:02: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "deagle" (headshot)
+L 03/02/2020 - 12:35:02: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "12") (damage_armor "6") (health "88") (armor "93") (hitgroup "chest")
+L 03/02/2020 - 12:35:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "15") (damage_armor "0") (health "85") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:35:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "13") (damage_armor "6") (health "72") (armor "93") (hitgroup "stomach")
+L 03/02/2020 - 12:35:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "10") (damage_armor "5") (health "62") (armor "87") (hitgroup "chest")
+L 03/02/2020 - 12:35:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "10") (damage_armor "5") (health "52") (armor "81") (hitgroup "left arm")
+L 03/02/2020 - 12:35:02: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "13") (damage_armor "6") (health "39") (armor "74") (hitgroup "stomach")
+L 03/02/2020 - 12:35:02: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "7") (health "73") (armor "85") (hitgroup "stomach")
+L 03/02/2020 - 12:35:02: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "7") (health "58") (armor "77") (hitgroup "stomach")
+L 03/02/2020 - 12:35:02: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "40") (armor "77") (hitgroup "left leg")
+L 03/02/2020 - 12:35:02: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "18") (damage_armor "0") (health "22") (armor "77") (hitgroup "right leg")
+L 03/02/2020 - 12:35:02: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "7") (health "7") (armor "69") (hitgroup "stomach")
+L 03/02/2020 - 12:35:03: "Gohan<4><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy" (damage "15") (damage_armor "7") (health "0") (armor "61") (hitgroup "stomach")
+L 03/02/2020 - 12:35:03: "Gohan<4><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "mp5navy"
+L 03/02/2020 - 12:35:03: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "10") (damage_armor "5") (health "29") (armor "68") (hitgroup "left arm")
+L 03/02/2020 - 12:35:03: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "10") (damage_armor "5") (health "19") (armor "62") (hitgroup "right arm")
+L 03/02/2020 - 12:35:06: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "10") (damage_armor "5") (health "9") (armor "56") (hitgroup "left arm")
+L 03/02/2020 - 12:35:06: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3" (damage "10") (damage_armor "5") (health "0") (armor "50") (hitgroup "chest")
+L 03/02/2020 - 12:35:06: "Imposto<9><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m3"
+L 03/02/2020 - 12:35:06: Team "CT" triggered "CTs_Win" (CT "4") (T "3")
+L 03/02/2020 - 12:35:06: Team "CT" scored "4" with "4" players
+L 03/02/2020 - 12:35:06: Team "TERRORIST" scored "3" with "4" players
+L 03/02/2020 - 12:35:06: World triggered "Round_End"
+L 03/02/2020 - 12:35:11: "Mito<3><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:35:11: World triggered "Round_Start"
+L 03/02/2020 - 12:35:22: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "glock" (damage "8") (damage_armor "3") (health "92") (armor "96") (hitgroup "chest")
+L 03/02/2020 - 12:35:23: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "glock" (damage "11") (damage_armor "0") (health "81") (armor "96") (hitgroup "left leg")
+L 03/02/2020 - 12:35:24: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "hegrenade" (damage "3") (damage_armor "1") (health "97") (armor "98") (hitgroup "generic")
+L 03/02/2020 - 12:35:24: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "hegrenade" (damage "28") (damage_armor "0") (health "72") (armor "0") (hitgroup "generic")
+L 03/02/2020 - 12:35:25: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:35:25: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "glock" (damage "33") (damage_armor "15") (health "48") (armor "80") (hitgroup "head")
+L 03/02/2020 - 12:35:25: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "40") (armor "95") (hitgroup "right leg")
+L 03/02/2020 - 12:35:25: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:35:26: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "34") (damage_armor "4") (health "6") (armor "90") (hitgroup "stomach")
+L 03/02/2020 - 12:35:26: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "109") (damage_armor "15") (health "0") (armor "74") (hitgroup "head")
+L 03/02/2020 - 12:35:26: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (headshot)
+L 03/02/2020 - 12:35:27: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "47") (armor "96") (hitgroup "right leg")
+L 03/02/2020 - 12:35:27: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "glock" (damage "33") (damage_armor "15") (health "15") (armor "64") (hitgroup "head")
+L 03/02/2020 - 12:35:27: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "14") (armor "91") (hitgroup "stomach")
+L 03/02/2020 - 12:35:27: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "0") (armor "86") (hitgroup "stomach")
+L 03/02/2020 - 12:35:27: "Imposto<9><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47"
+L 03/02/2020 - 12:35:28: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "48") (hitgroup "head")
+L 03/02/2020 - 12:35:28: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:35:34: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "left arm")
+L 03/02/2020 - 12:35:34: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "56") (armor "90") (hitgroup "left arm")
+L 03/02/2020 - 12:35:35: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "34") (armor "85") (hitgroup "left arm")
+L 03/02/2020 - 12:35:35: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "12") (armor "80") (hitgroup "chest")
+L 03/02/2020 - 12:35:35: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "75") (hitgroup "left arm")
+L 03/02/2020 - 12:35:35: "Mito<3><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 12:35:35: "pirulito<5><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:35:46: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "16") (damage_armor "2") (health "84") (armor "97") (hitgroup "left arm")
+L 03/02/2020 - 12:35:46: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "16") (damage_armor "2") (health "68") (armor "94") (hitgroup "chest")
+L 03/02/2020 - 12:35:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "20") (damage_armor "3") (health "77") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:35:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "16") (damage_armor "2") (health "61") (armor "91") (hitgroup "chest")
+L 03/02/2020 - 12:35:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "66") (damage_armor "9") (health "0") (armor "81") (hitgroup "head")
+L 03/02/2020 - 12:35:47: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:35:57: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "47") (armor "89") (hitgroup "left arm")
+L 03/02/2020 - 12:36:01: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "23") (armor "89") (hitgroup "left leg")
+L 03/02/2020 - 12:36:02: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "46") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:36:02: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "142") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:36:02: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:36:03: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:36:25: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:36:43: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:36:43: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "40") (armor "95") (hitgroup "right leg")
+L 03/02/2020 - 12:36:44: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "4") (health "6") (armor "90") (hitgroup "stomach")
+L 03/02/2020 - 12:36:44: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "85") (hitgroup "left arm")
+L 03/02/2020 - 12:36:44: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:36:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "4")
+L 03/02/2020 - 12:36:44: Team "CT" scored "4" with "4" players
+L 03/02/2020 - 12:36:44: Team "TERRORIST" scored "4" with "4" players
+L 03/02/2020 - 12:36:44: World triggered "Round_End"
+L 03/02/2020 - 12:36:49: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:36:49: World triggered "Round_Start"
+L 03/02/2020 - 12:37:15: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "chest")
+L 03/02/2020 - 12:37:16: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "94") (damage_armor "0") (health "6") (armor "99") (hitgroup "head")
+L 03/02/2020 - 12:37:16: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "93") (damage_armor "0") (health "0") (armor "99") (hitgroup "head")
+L 03/02/2020 - 12:37:16: "pirulito<5><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "usp" (headshot)
+L 03/02/2020 - 12:37:21: "Mito<3><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:37:21: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "72") (armor "93") (hitgroup "stomach")
+L 03/02/2020 - 12:37:21: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "44") (armor "86") (hitgroup "stomach")
+L 03/02/2020 - 12:37:21: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "16") (armor "79") (hitgroup "stomach")
+L 03/02/2020 - 12:37:21: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "0") (armor "72") (hitgroup "stomach")
+L 03/02/2020 - 12:37:21: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<3><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:37:22: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "13") (damage_armor "6") (health "87") (armor "93") (hitgroup "left arm")
+L 03/02/2020 - 12:37:26: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "m3" (damage "16") (damage_armor "0") (health "84") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:37:26: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "m3" (damage "16") (damage_armor "0") (health "68") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:37:26: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "m3" (damage "16") (damage_armor "0") (health "52") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:37:26: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "m3" (damage "16") (damage_armor "0") (health "36") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:37:26: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "m3" (damage "16") (damage_armor "0") (health "20") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:37:26: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "knife" (damage "55") (damage_armor "4") (health "19") (armor "91") (hitgroup "generic")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "9") (damage_armor "4") (health "91") (armor "95") (hitgroup "left arm")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "39") (damage_armor "19") (health "52") (armor "75") (hitgroup "head")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "9") (damage_armor "4") (health "43") (armor "70") (hitgroup "left arm")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "9") (damage_armor "4") (health "34") (armor "65") (hitgroup "chest")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "9") (damage_armor "4") (health "25") (armor "60") (hitgroup "chest")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "39") (damage_armor "19") (health "0") (armor "40") (hitgroup "head")
+L 03/02/2020 - 12:37:26: "Imposto<9><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "xm1014" (headshot)
+L 03/02/2020 - 12:37:27: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "73") (armor "85") (hitgroup "right arm")
+L 03/02/2020 - 12:37:27: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "59") (armor "77") (hitgroup "left arm")
+L 03/02/2020 - 12:37:27: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "14") (damage_armor "7") (health "45") (armor "69") (hitgroup "chest")
+L 03/02/2020 - 12:37:27: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "knife" (damage "55") (damage_armor "4") (health "0") (armor "86") (hitgroup "generic")
+L 03/02/2020 - 12:37:27: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "knife"
+L 03/02/2020 - 12:37:32: "Mito<3><STEAM_ID_LAN><TERRORIST>" disconnected (reason "Disconnect by user.")
+L 03/02/2020 - 12:37:34: "Mito<12><STEAM_ID_LAN><>" connected, address "10.70.0.79:27005"
+L 03/02/2020 - 12:37:34: "Mito<STEAM_ID_LAN>" STEAM USERID validated
+L 03/02/2020 - 12:37:37: "Mito<12><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 12:37:37: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "32") (damage_armor "4") (health "42") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:37:37: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "23") (armor "69") (hitgroup "left leg")
+L 03/02/2020 - 12:37:40: "Mito<12><STEAM_ID_LAN><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 12:37:43: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "0") (health "1") (armor "69") (hitgroup "left leg")
+L 03/02/2020 - 12:37:44: "Imposto<9><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "14") (damage_armor "0") (health "0") (armor "69") (hitgroup "left leg")
+L 03/02/2020 - 12:37:44: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 12:37:44: "Imposto<9><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "xm1014"
+L 03/02/2020 - 12:37:44: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 03/02/2020 - 12:37:44: Team "CT" scored "5" with "4" players
+L 03/02/2020 - 12:37:44: Team "TERRORIST" scored "4" with "4" players
+L 03/02/2020 - 12:37:44: World triggered "Round_End"
+L 03/02/2020 - 12:37:49: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:37:49: World triggered "Round_Start"
+L 03/02/2020 - 12:38:02: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "90") (damage_armor "19") (health "10") (armor "80") (hitgroup "head")
+L 03/02/2020 - 12:38:02: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "0") (armor "73") (hitgroup "stomach")
+L 03/02/2020 - 12:38:02: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:38:02: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "77") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:38:02: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "15") (damage_armor "0") (health "85") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:38:02: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "glock" (damage "20") (damage_armor "0") (health "65") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:38:03: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "left arm")
+L 03/02/2020 - 12:38:04: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "hegrenade" (damage "38") (damage_armor "0") (health "27") (armor "0") (hitgroup "generic")
+L 03/02/2020 - 12:38:04: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "9") (damage_armor "1") (health "69") (armor "93") (hitgroup "chest")
+L 03/02/2020 - 12:38:17: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "91") (damage_armor "19") (health "0") (armor "80") (hitgroup "head")
+L 03/02/2020 - 12:38:17: "pirulito<5><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:38:25: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:38:27: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "47") (armor "88") (hitgroup "chest")
+L 03/02/2020 - 12:38:27: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "25") (armor "83") (hitgroup "left arm")
+L 03/02/2020 - 12:38:27: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "0") (armor "76") (hitgroup "stomach")
+L 03/02/2020 - 12:38:27: "Gohan<4><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:38:29: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "34") (damage_armor "5") (health "66") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:38:29: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "39") (armor "89") (hitgroup "left arm")
+L 03/02/2020 - 12:38:29: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "11") (damage_armor "5") (health "89") (armor "94") (hitgroup "chest")
+L 03/02/2020 - 12:38:30: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "11") (damage_armor "5") (health "78") (armor "88") (hitgroup "chest")
+L 03/02/2020 - 12:38:31: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "16") (damage_armor "0") (health "62") (armor "88") (hitgroup "left leg")
+L 03/02/2020 - 12:38:31: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "12") (armor "84") (hitgroup "left arm")
+L 03/02/2020 - 12:38:31: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "glock" (damage "14") (damage_armor "6") (health "48") (armor "81") (hitgroup "stomach")
+L 03/02/2020 - 12:38:31: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "79") (hitgroup "right arm")
+L 03/02/2020 - 12:38:31: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47"
+L 03/02/2020 - 12:38:33: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/02/2020 - 12:38:33: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "xm1014" (damage "13") (damage_armor "6") (health "35") (armor "74") (hitgroup "head")
+L 03/02/2020 - 12:38:33: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "xm1014" (damage "13") (damage_armor "6") (health "22") (armor "67") (hitgroup "head")
+L 03/02/2020 - 12:38:33: "Imposto<9><STEAM_ID_LAN><CT>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "xm1014" (damage "13") (damage_armor "6") (health "9") (armor "60") (hitgroup "head")
+L 03/02/2020 - 12:38:43: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Defused_The_Bomb"
+L 03/02/2020 - 12:38:43: Team "CT" triggered "Bomb_Defused" (CT "6") (T "4")
+L 03/02/2020 - 12:38:43: Team "CT" scored "6" with "4" players
+L 03/02/2020 - 12:38:43: Team "TERRORIST" scored "4" with "4" players
+L 03/02/2020 - 12:38:43: World triggered "Round_End"
+L 03/02/2020 - 12:38:48: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:38:48: World triggered "Round_Start"
+L 03/02/2020 - 12:38:54: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "31") (damage_armor "4") (health "69") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:39:03: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "hegrenade" (damage "71") (damage_armor "0") (health "29") (armor "100") (hitgroup "generic")
+L 03/02/2020 - 12:39:05: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "19") (damage_armor "0") (health "81") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:39:06: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "19") (damage_armor "0") (health "62") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:39:06: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "19") (damage_armor "0") (health "43") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:39:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "3") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:39:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:39:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:39:14: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "100") (hitgroup "left leg")
+L 03/02/2020 - 12:39:14: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "deagle" (damage "33") (damage_armor "5") (health "67") (armor "94") (hitgroup "right arm")
+L 03/02/2020 - 12:39:15: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "deagle" (damage "33") (damage_armor "5") (health "34") (armor "88") (hitgroup "left arm")
+L 03/02/2020 - 12:39:16: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "8") (armor "88") (hitgroup "left leg")
+L 03/02/2020 - 12:39:16: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "72") (hitgroup "head")
+L 03/02/2020 - 12:39:16: "Mito<12><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:39:18: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "7") (damage_armor "0") (health "93") (armor "0") (hitgroup "generic")
+L 03/02/2020 - 12:39:23: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "51") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:39:23: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "deagle" (damage "30") (damage_armor "5") (health "39") (armor "89") (hitgroup "left arm")
+L 03/02/2020 - 12:39:25: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "deagle" (damage "42") (damage_armor "7") (health "0") (armor "81") (hitgroup "stomach")
+L 03/02/2020 - 12:39:25: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "deagle"
+L 03/02/2020 - 12:39:33: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:40:01: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "69") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:40:01: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "73") (armor "89") (hitgroup "chest")
+L 03/02/2020 - 12:40:02: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "143") (damage_armor "0") (health "0") (armor "89") (hitgroup "head")
+L 03/02/2020 - 12:40:02: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:40:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "5")
+L 03/02/2020 - 12:40:02: Team "CT" scored "6" with "4" players
+L 03/02/2020 - 12:40:02: Team "TERRORIST" scored "5" with "4" players
+L 03/02/2020 - 12:40:02: World triggered "Round_End"
+L 03/02/2020 - 12:40:07: "Mito<12><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:40:07: World triggered "Round_Start"
+L 03/02/2020 - 12:40:26: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "4") (health "66") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:40:26: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "76") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:40:26: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "54") (armor "95") (hitgroup "left arm")
+L 03/02/2020 - 12:40:27: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "90") (damage_armor "19") (health "0") (armor "75") (hitgroup "head")
+L 03/02/2020 - 12:40:27: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:40:28: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "40") (armor "95") (hitgroup "left leg")
+L 03/02/2020 - 12:40:32: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "awp" (damage "110") (damage_armor "1") (health "0") (armor "98") (hitgroup "left arm")
+L 03/02/2020 - 12:40:32: "Mito<12><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 12:40:32: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 03/02/2020 - 12:40:43: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "12") (damage_armor "6") (health "88") (armor "93") (hitgroup "stomach")
+L 03/02/2020 - 12:40:43: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "9") (damage_armor "4") (health "79") (armor "88") (hitgroup "left arm")
+L 03/02/2020 - 12:40:43: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "14") (damage_armor "0") (health "65") (armor "88") (hitgroup "right leg")
+L 03/02/2020 - 12:40:43: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "12") (damage_armor "6") (health "53") (armor "81") (hitgroup "stomach")
+L 03/02/2020 - 12:40:44: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "38") (damage_armor "19") (health "15") (armor "61") (hitgroup "head")
+L 03/02/2020 - 12:40:44: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 03/02/2020 - 12:40:44: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "9") (damage_armor "4") (health "6") (armor "56") (hitgroup "chest")
+L 03/02/2020 - 12:40:44: "Imposto<9><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (damage "38") (damage_armor "19") (health "0") (armor "36") (hitgroup "head")
+L 03/02/2020 - 12:40:44: "Imposto<9><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "xm1014" (headshot)
+L 03/02/2020 - 12:40:46: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 03/02/2020 - 12:40:46: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "88") (damage_armor "19") (health "0") (armor "75") (hitgroup "head")
+L 03/02/2020 - 12:40:46: "pirulito<5><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:40:46: Team "CT" triggered "CTs_Win" (CT "7") (T "5")
+L 03/02/2020 - 12:40:46: Team "CT" scored "7" with "4" players
+L 03/02/2020 - 12:40:46: Team "TERRORIST" scored "5" with "4" players
+L 03/02/2020 - 12:40:46: World triggered "Round_End"
+L 03/02/2020 - 12:40:51: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:40:51: World triggered "Round_Start"
+L 03/02/2020 - 12:40:58: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "knife" (damage "7") (damage_armor "0") (health "93") (armor "0") (hitgroup "generic")
+L 03/02/2020 - 12:41:14: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "71") (armor "95") (hitgroup "right arm")
+L 03/02/2020 - 12:41:14: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "88") (damage_armor "19") (health "0") (armor "75") (hitgroup "head")
+L 03/02/2020 - 12:41:14: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:41:16: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 03/02/2020 - 12:41:16: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:41:18: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "109") (damage_armor "15") (health "0") (armor "84") (hitgroup "head")
+L 03/02/2020 - 12:41:18: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:41:18: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "33") (damage_armor "16") (health "67") (armor "83") (hitgroup "generic")
+L 03/02/2020 - 12:41:25: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:41:32: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "92") (hitgroup "chest")
+L 03/02/2020 - 12:41:32: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "109") (damage_armor "15") (health "0") (armor "76") (hitgroup "head")
+L 03/02/2020 - 12:41:32: "Mito<12><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:41:48: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "140") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 03/02/2020 - 12:41:48: "Mito<12><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:41:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "6")
+L 03/02/2020 - 12:41:48: Team "CT" scored "7" with "4" players
+L 03/02/2020 - 12:41:48: Team "TERRORIST" scored "6" with "4" players
+L 03/02/2020 - 12:41:48: World triggered "Round_End"
+L 03/02/2020 - 12:41:53: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:41:53: World triggered "Round_Start"
+L 03/02/2020 - 12:42:07: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:42:07: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "p90" (damage "4") (damage_armor "0") (health "96") (armor "100") (hitgroup "left leg")
+L 03/02/2020 - 12:42:08: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "3") (damage_armor "0") (health "70") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:42:08: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "3") (damage_armor "0") (health "67") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:42:08: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "129") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 03/02/2020 - 12:42:08: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:42:08: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "p90" (damage "11") (damage_armor "1") (health "85") (armor "98") (hitgroup "left arm")
+L 03/02/2020 - 12:42:09: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "14") (damage_armor "0") (health "71") (armor "98") (hitgroup "left leg")
+L 03/02/2020 - 12:42:09: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "60") (damage_armor "8") (health "11") (armor "89") (hitgroup "head")
+L 03/02/2020 - 12:42:11: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "60") (damage_armor "8") (health "0") (armor "80") (hitgroup "head")
+L 03/02/2020 - 12:42:11: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:42:18: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "chest")
+L 03/02/2020 - 12:42:18: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "46") (armor "92") (hitgroup "chest")
+L 03/02/2020 - 12:42:19: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "20") (armor "92") (hitgroup "right leg")
+L 03/02/2020 - 12:42:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "0") (armor "88") (hitgroup "left arm")
+L 03/02/2020 - 12:42:20: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:42:24: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:42:29: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:42:29: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "41") (armor "91") (hitgroup "left arm")
+L 03/02/2020 - 12:42:29: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:42:29: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:42:30: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "0") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:42:30: "Mito<12><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:42:43: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "28") (damage_armor "6") (health "13") (armor "84") (hitgroup "stomach")
+L 03/02/2020 - 12:42:44: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "79") (hitgroup "right arm")
+L 03/02/2020 - 12:42:44: "pirulito<5><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:42:57: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "p90" (damage "51") (damage_armor "8") (health "16") (armor "85") (hitgroup "head")
+L 03/02/2020 - 12:42:57: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "p90" (damage "12") (damage_armor "2") (health "4") (armor "82") (hitgroup "left arm")
+L 03/02/2020 - 12:42:57: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "p90" (damage "16") (damage_armor "2") (health "0") (armor "79") (hitgroup "stomach")
+L 03/02/2020 - 12:42:57: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "p90"
+L 03/02/2020 - 12:42:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "7")
+L 03/02/2020 - 12:42:57: Team "CT" scored "7" with "4" players
+L 03/02/2020 - 12:42:57: Team "TERRORIST" scored "7" with "4" players
+L 03/02/2020 - 12:42:57: World triggered "Round_End"
+L 03/02/2020 - 12:43:02: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:43:02: World triggered "Round_Start"
+L 03/02/2020 - 12:43:27: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "famas" (damage "41") (damage_armor "0") (health "59") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:43:40: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "6") (damage_armor "0") (health "94") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:43:40: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "awp" (damage "111") (damage_armor "1") (health "0") (armor "98") (hitgroup "left arm")
+L 03/02/2020 - 12:43:40: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 03/02/2020 - 12:43:47: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:44:02: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "139") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:44:02: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:44:03: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "famas" (damage "20") (damage_armor "4") (health "80") (armor "95") (hitgroup "chest")
+L 03/02/2020 - 12:44:03: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:44:04: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:44:04: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:44:04: "Gohan<4><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "6") (damage_armor "0") (health "94") (armor "99") (hitgroup "chest")
+L 03/02/2020 - 12:44:05: "Gohan<4><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "8") (damage_armor "1") (health "86") (armor "97") (hitgroup "stomach")
+L 03/02/2020 - 12:44:06: "Gohan<4><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "8") (damage_armor "1") (health "78") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:44:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "138") (damage_armor "0") (health "0") (armor "100") (hitgroup "head")
+L 03/02/2020 - 12:44:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:44:31: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "24") (armor "0") (hitgroup "right arm")
+L 03/02/2020 - 12:44:31: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (damage "142") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:44:31: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:44:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "8")
+L 03/02/2020 - 12:44:31: Team "CT" scored "7" with "4" players
+L 03/02/2020 - 12:44:31: Team "TERRORIST" scored "8" with "4" players
+L 03/02/2020 - 12:44:31: World triggered "Round_End"
+L 03/02/2020 - 12:44:36: "Mito<12><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:44:36: World triggered "Round_Start"
+L 03/02/2020 - 12:44:54: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:44:54: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:44:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "6") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:44:59: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "79") (armor "95") (hitgroup "left arm")
+L 03/02/2020 - 12:45:05: "Gohan<4><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "10") (damage_armor "5") (health "69") (armor "89") (hitgroup "stomach")
+L 03/02/2020 - 12:45:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "9") (damage_armor "0") (health "60") (armor "89") (hitgroup "right leg")
+L 03/02/2020 - 12:45:06: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "12") (damage_armor "1") (health "48") (armor "87") (hitgroup "stomach")
+L 03/02/2020 - 12:45:07: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "9") (damage_armor "1") (health "39") (armor "85") (hitgroup "right arm")
+L 03/02/2020 - 12:45:07: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "usp" (damage "15") (damage_armor "7") (health "24") (armor "77") (hitgroup "left arm")
+L 03/02/2020 - 12:45:07: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:45:07: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:45:08: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:45:09: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "47") (armor "96") (hitgroup "right leg")
+L 03/02/2020 - 12:45:10: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "4") (health "13") (armor "91") (hitgroup "stomach")
+L 03/02/2020 - 12:45:10: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "141") (damage_armor "0") (health "0") (armor "91") (hitgroup "head")
+L 03/02/2020 - 12:45:10: "Mito<12><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:45:20: "Mito<12><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:45:30: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "74") (armor "0") (hitgroup "left leg")
+L 03/02/2020 - 12:45:30: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "famas" (damage "21") (damage_armor "0") (health "79") (armor "100") (hitgroup "right leg")
+L 03/02/2020 - 12:45:30: "pirulito<5><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "famas" (damage "80") (damage_armor "17") (health "0") (armor "82") (hitgroup "head")
+L 03/02/2020 - 12:45:30: "pirulito<5><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "famas" (headshot)
+L 03/02/2020 - 12:45:41: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "3") (health "73") (armor "96") (hitgroup "right arm")
+L 03/02/2020 - 12:45:42: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "108") (damage_armor "15") (health "0") (armor "80") (hitgroup "head")
+L 03/02/2020 - 12:45:42: "pirulito<5><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "ak47" (headshot)
+L 03/02/2020 - 12:45:52: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "33") (damage_armor "4") (health "67") (armor "95") (hitgroup "stomach")
+L 03/02/2020 - 12:45:52: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "39") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:45:53: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "4") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:45:53: "pirulito<5><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "72") (hitgroup "left arm")
+L 03/02/2020 - 12:45:53: "pirulito<5><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "ak47"
+L 03/02/2020 - 12:45:53: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "ak47" (damage "13") (damage_armor "1") (health "54") (armor "93") (hitgroup "chest")
+L 03/02/2020 - 12:45:53: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:45:53: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:46:05: Team "TERRORIST" triggered "Target_Bombed" (CT "7") (T "9")
+L 03/02/2020 - 12:46:05: Team "CT" scored "7" with "4" players
+L 03/02/2020 - 12:46:05: Team "TERRORIST" scored "9" with "4" players
+L 03/02/2020 - 12:46:05: World triggered "Round_End"
+L 03/02/2020 - 12:46:10: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:46:10: World triggered "Round_Start"
+L 03/02/2020 - 12:46:22: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "78") (armor "95") (hitgroup "chest")
+L 03/02/2020 - 12:46:23: "pirulito<5><STEAM_ID_LAN><CT>" attacked "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "91") (damage_armor "19") (health "0") (armor "75") (hitgroup "head")
+L 03/02/2020 - 12:46:23: "pirulito<5><STEAM_ID_LAN><CT>" killed "ICK<8><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:46:26: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "28") (damage_armor "4") (health "72") (armor "95") (hitgroup "generic")
+L 03/02/2020 - 12:46:26: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "21") (damage_armor "3") (health "79") (armor "96") (hitgroup "generic")
+L 03/02/2020 - 12:46:26: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "generic")
+L 03/02/2020 - 12:46:39: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "hegrenade" (damage "25") (damage_armor "3") (health "49") (armor "92") (hitgroup "generic")
+L 03/02/2020 - 12:46:41: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:46:42: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "0") (health "40") (armor "0") (hitgroup "right leg")
+L 03/02/2020 - 12:46:42: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "142") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:46:42: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:46:45: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "59") (armor "91") (hitgroup "chest")
+L 03/02/2020 - 12:46:45: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "39") (armor "86") (hitgroup "left arm")
+L 03/02/2020 - 12:46:45: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "82") (damage_armor "17") (health "0") (armor "68") (hitgroup "head")
+L 03/02/2020 - 12:46:45: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:46:49: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:46:50: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "27") (armor "87") (hitgroup "left arm")
+L 03/02/2020 - 12:46:51: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "24") (damage_armor "0") (health "3") (armor "87") (hitgroup "right leg")
+L 03/02/2020 - 12:46:51: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "22") (damage_armor "4") (health "0") (armor "82") (hitgroup "chest")
+L 03/02/2020 - 12:46:51: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:46:59: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "34") (damage_armor "5") (health "66") (armor "94") (hitgroup "stomach")
+L 03/02/2020 - 12:46:59: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "39") (armor "89") (hitgroup "left arm")
+L 03/02/2020 - 12:47:00: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "143") (damage_armor "0") (health "0") (armor "89") (hitgroup "head")
+L 03/02/2020 - 12:47:00: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (headshot)
+L 03/02/2020 - 12:47:06: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:47:06: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "22") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:47:11: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "89") (damage_armor "19") (health "0") (armor "75") (hitgroup "head")
+L 03/02/2020 - 12:47:11: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:47:13: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 03/02/2020 - 12:47:18: "xama na xinxa<7><STEAM_ID_LAN><CT>" triggered "Defused_The_Bomb"
+L 03/02/2020 - 12:47:18: Team "CT" triggered "Bomb_Defused" (CT "8") (T "9")
+L 03/02/2020 - 12:47:18: Team "CT" scored "8" with "4" players
+L 03/02/2020 - 12:47:18: Team "TERRORIST" scored "9" with "4" players
+L 03/02/2020 - 12:47:18: World triggered "Round_End"
+L 03/02/2020 - 12:47:23: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 12:47:23: World triggered "Round_Start"
+L 03/02/2020 - 12:47:47: "Mito<12><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "43") (damage_armor "0") (health "57") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:47:57: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:47:57: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "44") (damage_armor "0") (health "21") (armor "0") (hitgroup "stomach")
+L 03/02/2020 - 12:47:58: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "pirulito<5><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "0") (armor "0") (hitgroup "left arm")
+L 03/02/2020 - 12:47:58: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "pirulito<5><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:47:58: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "22") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:47:59: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "Gohan<4><STEAM_ID_LAN><CT>" with "ak47" (damage "35") (damage_armor "0") (health "0") (armor "0") (hitgroup "chest")
+L 03/02/2020 - 12:47:59: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" killed "Gohan<4><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:47:59: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "80") (armor "95") (hitgroup "left arm")
+L 03/02/2020 - 12:47:59: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "82") (damage_armor "17") (health "0") (armor "77") (hitgroup "head")
+L 03/02/2020 - 12:47:59: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Mito<12><STEAM_ID_LAN><TERRORIST>" with "m4a1" (headshot)
+L 03/02/2020 - 12:48:01: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "26") (damage_armor "3") (health "74") (armor "96") (hitgroup "left arm")
+L 03/02/2020 - 12:48:08: "ICK<8><STEAM_ID_LAN><TERRORIST>" triggered "Planted_The_Bomb"
+L 03/02/2020 - 12:48:08: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "33") (damage_armor "4") (health "41") (armor "91") (hitgroup "stomach")
+L 03/02/2020 - 12:48:09: "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "25") (damage_armor "0") (health "16") (armor "91") (hitgroup "left leg")
+L 03/02/2020 - 12:48:09: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "81") (damage_armor "17") (health "19") (armor "82") (hitgroup "head")
+L 03/02/2020 - 12:48:09: "xama na xinxa<7><STEAM_ID_LAN><CT>" attacked "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1" (damage "20") (damage_armor "4") (health "0") (armor "77") (hitgroup "chest")
+L 03/02/2020 - 12:48:09: "xama na xinxa<7><STEAM_ID_LAN><CT>" killed "Pescotapa<6><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 03/02/2020 - 12:48:28: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" attacked "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47" (damage "27") (damage_armor "4") (health "0") (armor "86") (hitgroup "chest")
+L 03/02/2020 - 12:48:28: "xlRubenslx<11><STEAM_ID_LAN><TERRORIST>" killed "xama na xinxa<7><STEAM_ID_LAN><CT>" with "ak47"
+L 03/02/2020 - 12:48:42: "ICK<8><STEAM_ID_LAN><TERRORIST>" attacked "Imposto<9><STEAM_ID_LAN><CT>" with "awp" (damage "456") (damage_armor "0") (health "0") (armor "0") (hitgroup "head")
+L 03/02/2020 - 12:48:42: "ICK<8><STEAM_ID_LAN><TERRORIST>" killed "Imposto<9><STEAM_ID_LAN><CT>" with "awp" (headshot)
+L 03/02/2020 - 12:48:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "10")
+L 03/02/2020 - 12:48:42: Team "CT" scored "8" with "4" players
+L 03/02/2020 - 12:48:42: Team "TERRORIST" scored "10" with "4" players
+L 03/02/2020 - 12:48:42: World triggered "Round_End"
+L 03/02/2020 - 12:48:52: Log file closed

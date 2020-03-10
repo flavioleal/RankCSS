@@ -1,0 +1,28 @@
+L 03/02/2020 - 13:05:20: Log file started (file "logs\L0302009.log") (game "D:\Cs\Source\Counter-Strike Source\Counter-Strike Source\cstrike") (version "2433")
+L 03/02/2020 - 13:05:20: World triggered "Round_Start"
+L 03/02/2020 - 13:05:20: World triggered "Round_Start"
+L 03/02/2020 - 13:05:21: "Gohan<4><STEAM_ID_LAN><>" disconnected (reason "Disconnect by user.")
+L 03/02/2020 - 13:05:22: "pirulito<5><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 13:05:22: "xlRubenslx<11><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 13:05:23: "Imposto<9><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 13:05:23: "Mito<12><STEAM_ID_LAN><>" entered the game
+L 03/02/2020 - 13:05:26: "xlRubenslx<11><STEAM_ID_LAN><Unassigned>" disconnected (reason "Disconnect by user.")
+L 03/02/2020 - 13:05:26: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/02/2020 - 13:05:26: Team "CT" scored "0" with "0" players
+L 03/02/2020 - 13:05:26: Team "TERRORIST" scored "0" with "0" players
+L 03/02/2020 - 13:05:26: World triggered "Round_End"
+L 03/02/2020 - 13:05:30: "Mito<12><STEAM_ID_LAN><Unassigned>" joined team "TERRORIST"
+L 03/02/2020 - 13:05:31: "Mito<12><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 03/02/2020 - 13:05:31: World triggered "Round_Start"
+L 03/02/2020 - 13:05:35: "pirulito<5><STEAM_ID_LAN><Unassigned>" joined team "Spectator"
+L 03/02/2020 - 13:05:38: "pirulito<5><STEAM_ID_LAN><Spectator>" disconnected (reason "Disconnect by user.")
+L 03/02/2020 - 13:06:04: "Mito<12><STEAM_ID_LAN><TERRORIST>" disconnected (reason "Disconnect by user.")
+L 03/02/2020 - 13:06:04: "Mito<12><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/02/2020 - 13:06:04: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/02/2020 - 13:06:04: Team "CT" scored "0" with "0" players
+L 03/02/2020 - 13:06:04: Team "TERRORIST" scored "0" with "0" players
+L 03/02/2020 - 13:06:04: World triggered "Round_End"
+L 03/02/2020 - 13:06:09: World triggered "Round_Start"
+L 03/02/2020 - 13:09:59: "Imposto<9><STEAM_ID_LAN><>" disconnected (reason "Server shutting down")
+L 03/02/2020 - 13:09:59: server_message: "quit"
+L 03/02/2020 - 13:09:59: Log file closed
