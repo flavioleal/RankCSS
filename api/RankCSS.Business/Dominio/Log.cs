@@ -12,9 +12,9 @@ namespace RankCSS.Business.Dominio
             Players = new List<Player>();
         }
         public List<Player> Players { get; set; }
-        public void LerAquivoLogTxt()
+        public List<Player> LerAquivoLogTxt()
         {
-            string text = System.IO.File.ReadAllText(@"C:\Projetos\RankCSS\api\RankCSS.Api\log\l0310000.log");
+            string text = System.IO.File.ReadAllText(@"D:\Projetos\CSS\RankCSS\log\l0310000.log");
 
             var split = text.Split("\r\n");
 
@@ -34,11 +34,12 @@ namespace RankCSS.Business.Dominio
                 })
                 .ToList();
 
+            return Players;
 
-            foreach (var player in Players)
-            {
-                Console.WriteLine($"Nick: {player.Nickname}    |    Kill: {player.Kill}");
-            }
+            //foreach (var player in Players)
+            //{
+            //    Console.WriteLine($"Nick: {player.Nickname}    |    Kill: {player.Kill}");
+            //}
         }
 
         public void BuscarJogadores(string[] log)
@@ -147,7 +148,6 @@ namespace RankCSS.Business.Dominio
             var fimNickname = item.IndexOf("<");
             var nickname = item[inicioNickname..fimNickname];
 
-            return nickname;
             return nickname;
         }
     }
