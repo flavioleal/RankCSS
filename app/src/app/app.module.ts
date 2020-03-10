@@ -10,6 +10,8 @@ import { HttpClient, HttpHeaders, HttpClientModule } from '@angular/common/http'
 import { RankGeralComponent } from './rank-geral/rank-geral.component';
 import { MatSliderModule } from '@angular/material/slider';
 import {MatToolbarModule} from '@angular/material/toolbar';
+import {MatTableModule} from '@angular/material/table'
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 
 @NgModule({
    declarations: [
@@ -22,7 +24,12 @@ import {MatToolbarModule} from '@angular/material/toolbar';
       BrowserAnimationsModule,
       ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
       MatSliderModule,
-      MatToolbarModule
+      MatToolbarModule,
+      BrowserModule,
+      BrowserAnimationsModule,
+      MatTableModule,
+      FormsModule,
+      ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
