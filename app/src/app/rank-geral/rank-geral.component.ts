@@ -1,5 +1,7 @@
 import {Component, Injectable, OnInit} from '@angular/core';
-import { HttpClientModule, HttpClient } from '@angular/common/http'; 
+import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { environment } from 'src/environments/environment';
+
 
 export interface Food {
   calories: number;
@@ -34,8 +36,8 @@ export class RankGeralComponent implements OnInit {
   }
 
   public carregarRankDiario() {
-    this.http.post<any>('http://localhost:56559/RankDiario', { title: 'Retorna Rank Diário' }).subscribe(data => {
-      this.lstRankDiario = data;       
+    this.http.post<any>(`${environment.url}/RankDiario`, { title: 'Retorna Rank Diário' }).subscribe(data => {
+      this.lstRankDiario = data;
       console.log(this.lstRankDiario);
     })
   }
