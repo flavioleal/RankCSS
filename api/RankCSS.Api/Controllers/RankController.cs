@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using RankCSS.Business.Dominio;
 
 namespace RankCSS.Api.Controllers
@@ -14,13 +10,13 @@ namespace RankCSS.Api.Controllers
             return View();
         }
 
-        [HttpPost, Route("RankGeral")]
-        public JsonResult RankGeral()
+        [HttpPost, Route("RankDiario")]
+        public JsonResult RankDiario()
         {
             var log = new Log();
-            var retorno = log.LerAquivoLogTxt();
+            var lstRankDiario = log.LerAquivoLogTxt();
 
-            return Json(retorno);
+            return Json(lstRankDiario);
         }
 
     }

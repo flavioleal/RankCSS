@@ -29,7 +29,8 @@ import {FormsModule, ReactiveFormsModule} from '@angular/forms';
       BrowserAnimationsModule,
       MatTableModule,
       FormsModule,
-      ReactiveFormsModule
+      ReactiveFormsModule,
+      HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
