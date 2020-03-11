@@ -31,7 +31,7 @@ namespace RankCSS.Business.Dominio
                     Assistance = j.Sum(ij => ij.Assistance),
                     FriendlyFire = j.Sum(ij => ij.FriendlyFire),
                     Nickname = j.First().Nickname,
-                })
+                }).OrderByDescending(x => x.Pontuacao)
                 .ToList();
 
             return Players;
