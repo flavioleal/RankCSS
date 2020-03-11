@@ -14,7 +14,7 @@ namespace RankCSS.Business.Dominio
         public List<Player> Players { get; set; }
         public List<Player> LerAquivoLogTxt()
         {
-            string text = System.IO.File.ReadAllText(@"D:\Projetos\CSS\RankCSS\log\l0310000.log");
+            string text = System.IO.File.ReadAllText(@"C:\Sites\Rank\log\l0311000.log");
 
             var split = text.Split("\r\n");
 
@@ -160,6 +160,14 @@ namespace RankCSS.Business.Dominio
         public decimal Assistance { get; set; }
         public int Death { get; set; }
         public decimal FriendlyFire { get; set; }
+
+        public decimal Pontuacao
+        {
+            get
+            {
+                return (Kill - Death);
+            }
+        }
     }
 
 }
