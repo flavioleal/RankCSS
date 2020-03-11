@@ -1,3 +1,16 @@
 table {
   width: 100%;
 }
+
+.my-style-blue{
+  color: #00BFFF;
+}
+.my-style-red{
+  color: #FFA07A;;
+}
+.my-style-default{
+  color: #D3D3D3;
+}
+.center {
+  text-align: center;
+}

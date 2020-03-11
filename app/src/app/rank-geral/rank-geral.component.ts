@@ -35,6 +35,15 @@ export class RankGeralComponent implements OnInit {
     this.carregarRankDiario();
   }
 
+  getClass(i){
+    if(i >= 0 && i <= 2)
+      return 'my-style-blue';
+    else if (i >= (this.lstRankDiario.length - 3))
+      return 'my-style-red';
+    else
+      return '';
+  }
+
   public carregarRankDiario() {
     this.http.post<any>(`${environment.url}/RankDiario`, { title: 'Retorna Rank Diário' }).subscribe(data => {
       this.lstRankDiario = data;
