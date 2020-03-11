@@ -12,6 +12,7 @@ import { MatSliderModule } from '@angular/material/slider';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatTableModule} from '@angular/material/table'
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
+import {MatIconModule} from '@angular/material/icon';
 
 @NgModule({
    declarations: [
@@ -30,7 +31,8 @@ import {FormsModule, ReactiveFormsModule} from '@angular/forms';
       MatTableModule,
       FormsModule,
       ReactiveFormsModule,
-      HttpClientModule
+      HttpClientModule,
+      MatIconModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
