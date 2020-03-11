@@ -26,7 +26,7 @@ export class RankGeralComponent implements OnInit {
   //   {name: 'Cupcakes', calories: 305, fat: 4, carbs: 67, protein: 4},
   //   {name: 'Gingerbreads', calories: 356, fat: 16, carbs: 49, protein: 4},
   // ];
-  displayedColumns: string[] = ['nickname', 'kill', 'death', 'assistance', 'friendlyFire'];
+  displayedColumns: string[] = ['index', 'nickname', 'kill', 'death', 'assistance', 'friendlyFire', 'pontuation'];
   lstRankDiario: Food[];
 
   constructor(private http: HttpClient) { }
