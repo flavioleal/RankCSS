@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
@@ -14,7 +15,8 @@ namespace RankCSS.Business.Dominio
         public List<Player> Players { get; set; }
         public List<Player> LerAquivoLogTxt()
         {
-            string text = System.IO.File.ReadAllText(@"C:\Sites\Rank\log\l0311000.log");
+            string execDir = System.Environment.CurrentDirectory + "\\..\\..\\log";         
+            string text = System.IO.File.ReadAllText(execDir + @"\l0311000.log");
 
             var split = text.Split("\r\n");
 

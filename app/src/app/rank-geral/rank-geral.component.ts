@@ -4,13 +4,19 @@ import { environment } from 'src/environments/environment';
 
 
 export interface Food {
+  nickname: string;
+  address: string;
+  kill: number;
+  assistance: number;
+  death: number;
+  friendlyFire: number;
   pontuation: number;
 }
 
 @Component({
   selector: 'app-rank-geral',
   templateUrl: './rank-geral.component.html',
-  styleUrls: ['./rank-geral.component.css']
+  styleUrls: ['./rank-geral.component.scss']
 })
 
 export class RankGeralComponent implements OnInit {
@@ -28,9 +34,10 @@ export class RankGeralComponent implements OnInit {
   }
 
   public carregarRankDiario() {
-    this.http.post<any>(`${environment.url}/RankDiario`, { title: 'Retorna Rank Diário' }).subscribe(data => {
+    this.http.get<any>(`${environment.url}/RankDiario`).subscribe(data => {
       this.lstRankDiario = data;
-        this.blnPontuationDay = this.lstRankDiario == null ? false : true;
+      console.log(this.lstRankDiario);
+      this.blnPontuationDay = this.lstRankDiario == null ? false : true;
     })
   }
 

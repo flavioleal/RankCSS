@@ -10,7 +10,7 @@ namespace RankCSS.Api.Controllers
             return View();
         }
 
-        [HttpPost, Route("RankDiario")]
+        [HttpGet, Route("RankDiario")]
         public JsonResult RankDiario()
         {
             try
