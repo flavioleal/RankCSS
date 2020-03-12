@@ -13,10 +13,17 @@ namespace RankCSS.Api.Controllers
         [HttpPost, Route("RankDiario")]
         public JsonResult RankDiario()
         {
-            var log = new Log();
-            var lstRankDiario = log.LerAquivoLogTxt();
+            try
+            {
+                var log = new Log();
+                var lstRankDiario = log.LerAquivoLogTxt();
 
-            return Json(lstRankDiario);
+                return Json(lstRankDiario);
+            }
+            catch
+            {
+                return null;
+            }
         }
 
     }
