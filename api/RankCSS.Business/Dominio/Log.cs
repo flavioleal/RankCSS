@@ -165,7 +165,7 @@ namespace RankCSS.Business.Dominio
         {
             get
             {
-                return (Kill - Death);
+                return (Kill - Death - FriendlyFire);
             }
         }
     }
