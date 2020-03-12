@@ -26,7 +26,7 @@ table {
     padding: 0;
     margin: 0;
     width: 100px;
-    
+
     span {
       height: 2rem;
       text-align: center;
@@ -45,20 +45,20 @@ table {
       font-weight: 500;
     }
 
-    &.primeiro-lugar { 
+    &.primeiro-lugar {
       > div {
         height: 120px;
-        background-color: #21a6ab;
+        background-color: #C2185B;
         border-left: 0;
         border-right: 0;
       }
     }
-    
+
     &.segundo-lugar {
       margin-top: 40px;
       > div {
         height: 80px;
-        background-color: #ec5039;
+        background-color: #C761A0;
         border-left: 0;
       }
     }
@@ -67,7 +67,7 @@ table {
       margin-top: 60px;
       > div {
         height: 60px;
-        background-color: #aea41e;
+        background-color: #746BE8;
         border-right: 0;
       }
     }
