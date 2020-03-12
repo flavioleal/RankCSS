@@ -53,11 +53,11 @@ namespace RankCSS.Business.Dominio
                 if (!item.Contains("><BOT><>"))
                 {
 
-                    var split = item.Split(" ");
-                    var fimNickname = split[4].IndexOf("<");
+                    var split = item.Split("\"");
+                    var fimNickname = split[1].IndexOf('<');
                     var player = new Player();
-                    player.Nickname = split[4][1..fimNickname];
-                    player.Address = split[7];
+                    player.Nickname = split[1][0..fimNickname];
+                    player.Address = split[3];
 
 
                     if (!Players.Any(x => x.Nickname == player.Nickname && x.Address == player.Address))
