@@ -16,7 +16,7 @@ namespace RankCSS.Business.Dominio
         public List<Player> LerAquivoLogTxt()
         {
             string execDir = System.Environment.CurrentDirectory + "\\..\\..\\log";         
-            string text = System.IO.File.ReadAllText(execDir + @"\l0311000.log");
+            string text = System.IO.File.ReadAllText(@"C:\Sites\Rank\log\jogo.log");
 
             var split = text.Split("\r\n");
 
