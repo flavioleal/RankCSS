@@ -21,6 +21,7 @@ namespace RankCSS.Infra.Data.EF
             builder.ApplyConfiguration(new JogadorMap());
             builder.ApplyConfiguration(new RodadaMap());
             builder.ApplyConfiguration(new PartidaMap());
+            builder.ApplyConfiguration(new ArquivoMap());
             base.OnModelCreating(builder);
         }
     }

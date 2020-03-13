@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RankCSS.Infra.Data.EF;
 
 namespace RankCSS.Infra.Data.Migrations
 {
     [DbContext(typeof(RankContext))]
-    partial class RankContextModelSnapshot : ModelSnapshot
+    [Migration("20200313191507_rackcss")]
+    partial class rackcss
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -25,7 +27,7 @@ namespace RankCSS.Infra.Data.Migrations
 
                     b.Property<byte[]>("Conteudo")
                         .IsRequired()
-                        .HasColumnType("blob");
+                        .HasColumnType("longblob");
 
                     b.Property<DateTime>("DataProcessamento")
                         .HasColumnType("datetime(6)");
