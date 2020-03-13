@@ -18,10 +18,10 @@ namespace RankCSS.Infra.Data.EF
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.ApplyConfiguration(new JogadorMap());
-            builder.ApplyConfiguration(new RodadaMap());
-            builder.ApplyConfiguration(new PartidaMap());
-            builder.ApplyConfiguration(new ArquivoMap());
+            builder.ApplyConfiguration(new PlayerMap());
+            builder.ApplyConfiguration(new RoundMap());
+            builder.ApplyConfiguration(new MatchMap());
+            builder.ApplyConfiguration(new FileMap());
             base.OnModelCreating(builder);
         }
     }

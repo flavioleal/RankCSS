@@ -4,11 +4,11 @@ using System.Text;
 
 namespace RankCSS.Business.Entidades
 {
-    public class Jogador : Entity
+    public class Player : Entity
     {
-        public string Nome { get; set; }
+        public string Nickname { get; set; }
         public string IP { get; set; }
-        public virtual List<Rodada> Rodadas { get; set; }
+        public virtual List<Round> Rounds { get; set; }
 
     }
 }

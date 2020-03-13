@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RankCSS.CrossCutting.IoC.Config;
+
 namespace RankCSS.Api
 {
     public class Startup
@@ -26,6 +28,8 @@ namespace RankCSS.Api
                        .AllowAnyMethod()
                        .AllowAnyHeader();
             }));
+
+            RegisterServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,6 +51,12 @@ namespace RankCSS.Api
             {
                 endpoints.MapControllers();
             });
+        }
+
+        private static void RegisterServices(IServiceCollection services)
+        {
+            // Adding dependencies from another layers (isolated from Presentation)
+            NativeInjectorBootStrapper.RegisterServices(services);
         }
     }
 }

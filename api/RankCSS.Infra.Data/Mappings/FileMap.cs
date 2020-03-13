@@ -7,24 +7,24 @@ using System.Text;
 
 namespace RankCSS.Infra.Data.Mappings
 {
-    public class ArquivoMap : IEntityTypeConfiguration<Arquivo>
+    public class FileMap : IEntityTypeConfiguration<File>
     {
-        public void Configure(EntityTypeBuilder<Arquivo> builder)
+        public void Configure(EntityTypeBuilder<File> builder)
         {
             builder.HasKey(x => x.ID);
 
-            builder.Property(x => x.Nome)
+            builder.Property(x => x.Name)
                 .HasMaxLength(100)
                 .IsRequired();
 
-            builder.Property(x => x.Processado)
+            builder.Property(x => x.Processed)
                 .IsRequired();
 
-            builder.Property(x => x.Conteudo)
+            builder.Property(x => x.Content)
                 .HasColumnType("blob")
                 .IsRequired();
 
-            builder.Property(x => x.DataProcessamento)
+            builder.Property(x => x.ProcessingDate)
                 .IsRequired();
         }
     }
