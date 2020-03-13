@@ -17,8 +17,8 @@ namespace RankCSS.Infra.Data.Mappings
             builder.Property(x => x.Death);
             builder.Property(x => x.FriendlyFire);
             builder.Property(x => x.HS);
-            builder.Property(x => x.PlantedBomb);
-            builder.Property(x => x.DefusedBomb);
+            builder.Property(x => x.PlantedBomb).HasColumnType("bit");
+            builder.Property(x => x.DefusedBomb).HasColumnType("bit");
             
             
         }

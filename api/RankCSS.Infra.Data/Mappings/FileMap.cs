@@ -18,6 +18,7 @@ namespace RankCSS.Infra.Data.Mappings
                 .IsRequired();
 
             builder.Property(x => x.Processed)
+                .HasColumnType("bit")
                 .IsRequired();
 
             builder.Property(x => x.Content)
