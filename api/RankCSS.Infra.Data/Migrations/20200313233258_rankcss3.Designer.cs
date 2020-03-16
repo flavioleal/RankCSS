@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RankCSS.Infra.Data.EF;
 
 namespace RankCSS.Infra.Data.Migrations
 {
     [DbContext(typeof(RankContext))]
-    partial class RankContextModelSnapshot : ModelSnapshot
+    [Migration("20200313233258_rankcss3")]
+    partial class rankcss3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RankCSS.Infra.Data.EF;
 
 namespace RankCSS.Infra.Data.Migrations
 {
     [DbContext(typeof(RankContext))]
-    partial class RankContextModelSnapshot : ModelSnapshot
+    [Migration("20200313232319_rankcss")]
+    partial class rankcss
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -32,8 +34,8 @@ namespace RankCSS.Infra.Data.Migrations
                         .HasColumnType("varchar(100) CHARACTER SET utf8mb4")
                         .HasMaxLength(100);
 
-                    b.Property<ulong>("Processed")
-                        .HasColumnType("bit");
+                    b.Property<bool>("Processed")
+                        .HasColumnType("tinyint(1)");
 
                     b.Property<DateTime>("ProcessingDate")
                         .HasColumnType("datetime(6)");
@@ -97,8 +99,8 @@ namespace RankCSS.Infra.Data.Migrations
                     b.Property<int>("Death")
                         .HasColumnType("int");
 
-                    b.Property<ulong?>("DefusedBomb")
-                        .HasColumnType("bit");
+                    b.Property<bool?>("DefusedBomb")
+                        .HasColumnType("tinyint(1)");
 
                     b.Property<int?>("FriendlyFire")
                         .HasColumnType("int");
@@ -109,8 +111,8 @@ namespace RankCSS.Infra.Data.Migrations
                     b.Property<int>("Kill")
                         .HasColumnType("int");
 
-                    b.Property<ulong?>("PlantedBomb")
-                        .HasColumnType("bit");
+                    b.Property<bool?>("PlantedBomb")
+                        .HasColumnType("tinyint(1)");
 
                     b.HasKey("PlayerID", "RoundID");
 
