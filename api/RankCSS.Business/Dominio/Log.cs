@@ -1,5 +1,7 @@
-﻿using System;
+﻿using RankCSS.Business.Entidades;
+using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -13,35 +15,49 @@ namespace RankCSS.Business.Dominio
             Players = new List<Player>();
         }
         public List<Player> Players { get; set; }
+
+        public List<Match> Matchs { get; set; }
         public List<Player> LerAquivoLogTxt()
         {
-            string execDir = System.Environment.CurrentDirectory + "\\..\\..\\log";         
-            string text = System.IO.File.ReadAllText(@"C:\Sites\Rank\log\jogo.log");
+            string log = System.IO.File.ReadAllText(@"C:\Sites\Rank\log\jogo.log");
 
-            var split = text.Split("\r\n");
 
-            BuscarJogadores(split);
-            BuscarKillPorPlayer(text);
+            //var logsplit = log.Split("L ");
 
-            Players = Players
-                .GroupBy(i => i.Address)
-                .Select(j => new Player()
-                {
-                    Address = j.First().Address,
-                    Kill = j.Sum(ij => ij.Kill),
-                    Death = j.Sum(ij => ij.Death),
-                    Assistance = j.Sum(ij => ij.Assistance),
-                    FriendlyFire = j.Sum(ij => ij.FriendlyFire),
-                    Nickname = j.First().Nickname,
-                }).OrderByDescending(x => x.Pontuation)
-                .ToList();
+            var trecho = log.Split("Game_Commencing");
 
-            return Players;
+            var rounds = trecho[3].Split("Round_End");
 
-            //foreach (var player in Players)
-            //{
-            //    Console.WriteLine($"Nick: {player.Nickname}    |    Kill: {player.Kill}");
-            //}
+
+
+
+            //match.Start = DateTime.ParseExact(dados[0] + " " + dados[2].Substring(0, dados[2].Length - 1), "MM/dd/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+
+
+
+
+            //CODIGO ANTIGO
+            //var split = text.Split("\r\n");
+
+            //BuscarJogadores(split);
+            //BuscarKillPorPlayer(text);
+
+            //Players = Players
+            //    .GroupBy(i => i.Address)
+            //    .Select(j => new Player()
+            //    {
+            //        Address = j.First().Address,
+            //        Kill = j.Sum(ij => ij.Kill),
+            //        Death = j.Sum(ij => ij.Death),
+            //        Assistance = j.Sum(ij => ij.Assistance),
+            //        FriendlyFire = j.Sum(ij => ij.FriendlyFire),
+            //        Nickname = j.First().Nickname,
+            //    }).OrderByDescending(x => x.Pontuation)
+            //    .ToList();
+
+            //return Players;
+
+            return null;
         }
 
         public void BuscarJogadores(string[] log)
